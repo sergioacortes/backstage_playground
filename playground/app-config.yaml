@@ -18,7 +18,7 @@ app:
           path: /
 
 organization:
-  name: Backstage Playground
+  name: Backstage playground
 
 backend:
   # Used for enabling authentication, secret is shared by all backend plugins
