@@ -27,6 +27,8 @@ POSTGRES_PORT=5432
 POSTGRES_USER=backstage
 POSTGRES_PASSWORD=your_postgres_password
 POSTGRES_DB=backstage
+GITHUB_APPLICATION_CLIENT_ID=your_github_client_id
+GITHUB_APPLICATION_CLIENT_SECRET=your_github_client_secret
 ```
 NOTE: If you have an instance of Postgres on your local machine you must set the environment variables with the values of your instance.
 
