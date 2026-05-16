@@ -14,7 +14,7 @@ To start using the backstage projects you most configure the following dependenc
 The package dotenv is used to load the .env file as environment variables before the application start, run the following command to instal dotenv from npm.
 
 ```
-npm install -g dotenv
+npm install -g dotenv-cli
 ```
 
 ## Environment variables
